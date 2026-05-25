@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Diogo Charllys 👋</h1>
+<h1 align="center">Diogo Charllys F. Lopes</h1>
 
 <p align="center">
-  Desenvolvedor em formação · Análise e Desenvolvimento de Sistemas + Economia · 🇧🇷 Brasil
+  Desenvolvedor de Software · Tecnólogo em Análise e Desenvolvimento de Sistemas · Graduando em Economia · 🇧🇷 Brasil
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 
 ### 🚀 Sobre mim
 
-Construo **APIs e sistemas backend** com foco em código limpo, testável e bem documentado.
-Venho da Economia e estou em transição para a tecnologia através do curso de **Análise e Desenvolvimento de Sistemas** — o que me dá um olhar diferenciado para problemas de **dados, finanças e produto**.
+Sou **Tecnólogo em Análise e Desenvolvimento de Sistemas** e **graduando em Economia**, com interesse em **engenharia e desenvolvimento de software** e **ciência de dados**.
+Construo **APIs e sistemas backend** com foco em código limpo, testável e bem documentado — e a base em Economia me dá um olhar diferenciado para problemas de **dados, finanças e produto**.
 
 - 🔭 A trabalhar em **[news-sentiment](https://github.com/diogocharllys/news-sentiment)** — análise de sentimento de notícias econômicas com NLP (Python/FastAPI).
-- 🌱 A aprofundar **arquitetura de software, testes automatizados e boas práticas de engenharia**.
+- 🌱 A aprofundar **arquitetura de software, testes automatizados e ciência de dados**.
 - 💬 Fala comigo sobre **backend, APIs REST, dados e Python**.
 
 ---
@@ -68,4 +68,4 @@ Venho da Economia e estou em transição para a tecnologia através do curso de 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocharllys&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
 </p>
 
-<p align="center"><sub>📍 Brasil · Aberto a oportunidades em desenvolvimento backend e dados</sub></p>
+<p align="center"><sub>📍 Brasil · Aberto a oportunidades em engenharia de software, desenvolvimento backend e dados</sub></p>
