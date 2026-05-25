@@ -55,9 +55,14 @@ Construo **APIs e sistemas backend** com foco em código limpo, testável e bem 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
 | **[news-sentiment](https://github.com/diogocharllys/news-sentiment)** | Agregador de notícias econômicas com análise de sentimento (PT-BR), NER e correlação com ativos | Python · FastAPI · PostgreSQL · NLP |
-| **[taskmanager-api](https://github.com/diogocharllys/taskmanager-api)** | API REST para gestão de tarefas, projetos e times, com autenticação JWT e Swagger | Node.js · TypeScript · Prisma |
-| **[ecommerce-api](https://github.com/diogocharllys/ecommerce-api)** | API REST para um e-commerce | Node.js · TypeScript |
-| **[finances-api](https://github.com/diogocharllys/finances-api)** | API REST para controle financeiro pessoal | Node.js · TypeScript |
+
+**APIs REST em Node.js + TypeScript** — uma progressão, cada uma explorando um desafio diferente *(Express · Prisma · MySQL · Docker · CI)*:
+
+| Projeto | O que explora | Destaques |
+|---------|---------------|-----------|
+| **[taskmanager-api](https://github.com/diogocharllys/taskmanager-api)** | Fundamentos de uma API REST bem-feita | JWT, Prisma, Swagger, testes, CI · [🔗 demo](https://taskmanager-api-production-150f.up.railway.app/api-docs/) |
+| **[ecommerce-api](https://github.com/diogocharllys/ecommerce-api)** | Regras de negócio **com estado** + autorização por papel | Carrinho→pedido→pagamento, admin/cliente · [🔗 demo](https://ecommerce-api-production-2aed.up.railway.app/docs/) |
+| **[finances-api](https://github.com/diogocharllys/finances-api)** | Domínio financeiro em **arquitetura em camadas** | Categorias + transações, error handler central |
 
 ---
 
