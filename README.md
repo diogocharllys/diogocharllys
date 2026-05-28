@@ -66,11 +66,4 @@ Construo **APIs e sistemas backend** com foco em código limpo, testável e bem 
 
 ---
 
-### 📊 GitHub em números
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=diogocharllys&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocharllys&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
-</p>
-
 <p align="center"><sub>📍 Brasil · Aberto a oportunidades em engenharia de software, desenvolvimento backend e dados</sub></p>
